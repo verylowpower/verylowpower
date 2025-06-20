@@ -14,9 +14,9 @@ Demo: [Mirror Demo](https://youtu.be/o3yGVmpuUgw)
 
 Some of my past pixel art work:
 
-![Terraria](terraria5.png)
-
 ![Terraria](weapon.png)
+
+![Terraria](terraria5.png)
 
 ![Terraria](remake_sprite_sheet.png)
 
