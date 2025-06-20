@@ -15,8 +15,8 @@ Concept art:
 
 
 🔹 Project: [Mirror – 2D Survivor-like Game](https://github.com/verylowpower/Mirror)  
-    
-Demo: [YouTube Video](https://youtu.be/o3yGVmpuUgw)
+Implemented spatial partitioning system to manage enemy spawning and AI updates efficiently.
+Demo: [Mirror Demo](https://youtu.be/o3yGVmpuUgw)
     
 🔹 Art: [ArtStation](https://www.artstation.com/yeloathsome9)  
 📧 tduongpf@gmail.com
