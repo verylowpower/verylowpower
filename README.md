@@ -17,10 +17,13 @@ _Still actively working on this project and updating regularly._
 🔹 Some of my past pixel art work:
 
 ![Terraria](weapon.png)
+![Terraria](terraria6.png)
 
 ![Terraria](terraria5.png)
 
 ![Terraria](remake_sprite_sheet.png)
+
+
 
 ![Cake](cake_shop.png)
 
