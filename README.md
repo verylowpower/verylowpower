@@ -7,6 +7,8 @@ Some of my past pixel art work:
 
 ![Terraria](terraria5.png)
 
+![Terraria](remake_sprite_sheet.png)
+
 ![Terraria](weapon.png)
 
 Concept art:
@@ -16,6 +18,7 @@ Concept art:
 
 🔹 Project: [Mirror – 2D Survivor-like Game](https://github.com/verylowpower/Mirror)  
 Implemented spatial partitioning system to manage enemy spawning and AI updates efficiently.
+
 Demo: [Mirror Demo](https://youtu.be/o3yGVmpuUgw)
     
 🔹 Art: [ArtStation](https://www.artstation.com/yeloathsome9)  
