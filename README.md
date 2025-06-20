@@ -6,10 +6,11 @@ Experienced in gameplay, AI, and pixel art using Aseprite.
 Some art from past project:
 
 ![Terraria](terraria5.png)
-![Terraria](houseware-export.png)
+
 ![Terraria](weapon.png)
 
 Concept art:
+
 ![boss](boss_idea.gif)
 
 
