@@ -12,7 +12,7 @@ Level up by collecting buffs and transform into a more powerful version.
 
 Demo: [Mirror Demo](https://youtu.be/o3yGVmpuUgw)
 
-Some of my past pixel art work:
+🔹 Some of my past pixel art work:
 
 ![Terraria](weapon.png)
 
@@ -27,4 +27,4 @@ Concept art:
 ![boss](boss_idea.gif)
    
 🔹 Art: [ArtStation](https://www.artstation.com/yeloathsome9)  
-📧 tduongpf@gmail.com
+Email: tduongpf@gmail.com
