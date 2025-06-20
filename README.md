@@ -1,4 +1,4 @@
-#Hello I'm Duong
+Hello I'm Duong
 
 Passionate about 2D game development with Unity and C#.  
 Experienced in gameplay, AI, and pixel art using Aseprite.
