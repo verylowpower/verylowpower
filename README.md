@@ -14,6 +14,7 @@ Concept art:
 ![boss](boss_idea.gif)
 
 
-🔹 Project: [Mirror – Survivor-like Game](https://github.com/verylowpower/Mirror)  
+🔹 Project: [Mirror – 2D Survivor-like Game](https://github.com/verylowpower/Mirror)  
+    Demo: [YouTube Video](https://youtu.be/o3yGVmpuUgw)
 🔹 Art: [ArtStation](https://www.artstation.com/yeloathsome9)  
 📧 tduongpf@gmail.com
