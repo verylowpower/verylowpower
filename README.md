@@ -14,22 +14,17 @@ Demo: [Mirror Demo](https://youtu.be/o3yGVmpuUgw)
 
 _Still actively working on this project and updating regularly._
 
-🔹 Some of my past pixel art work and in-game footage:
+🔹 Some of my past pixel art work:
 
+Asset:
 ![Terraria](weapon.png)
 ![Terraria](remake_sprite_sheet.png)
 
-Asset
-
-
+In-game footage:
 ![Terraria](terraria5.png)
 ![Terraria](terraria6.png)
 
-In-game footage 
-
-
 Concept art:
-
 ![boss](boss_idea.gif)
 ![Cake](cake_shop.png)
    
