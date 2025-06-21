@@ -14,17 +14,24 @@ Demo: [Mirror Demo](https://youtu.be/o3yGVmpuUgw)
 
 _Still actively working on this project and updating regularly._
 
-🔹 Some of my past pixel art work:
+🔹 Some of my past pixel art work and in-game footage:
 
 ![Terraria](weapon.png)
+![Terraria](remake_sprite_sheet.png)
+
+Asset
+
+
 ![Terraria](terraria5.png)
 ![Terraria](terraria6.png)
-![Terraria](remake_sprite_sheet.png)
-![Cake](cake_shop.png)
+
+In-game footage 
+
 
 Concept art:
 
 ![boss](boss_idea.gif)
+![Cake](cake_shop.png)
    
 🔹 Art: [ArtStation](https://www.artstation.com/yeloathsome9)  
 Email: tduongpf@gmail.com
