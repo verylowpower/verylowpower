@@ -26,7 +26,7 @@ In-game footage:
 
 Concept art:
 ![boss](boss_idea.gif)
-![Cake](cake_shop.png)
+![cake_shop](cake_shop.png)
    
 🔹 Art: [ArtStation](https://www.artstation.com/yeloathsome9)  
 Email: tduongpf@gmail.com
