@@ -17,14 +17,17 @@ _Still actively working on this project and updating regularly._
 🔹 Some of my past pixel art work:
 
 Asset:
+
 ![Terraria](weapon.png)
 ![Terraria](remake_sprite_sheet.png)
 
 In-game footage:
+
 ![Terraria](terraria5.png)
 ![Terraria](terraria6.png)
 
 Concept art:
+
 ![boss](boss_idea.gif)
 ![cake_shop](cake_shop.png)
    
