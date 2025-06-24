@@ -10,7 +10,7 @@ Implemented spatial partitioning system to manage enemy spawning and AI updates 
 
 Level up by collecting buffs and transform into a more powerful version.
 
-Demo: [Mirror Demo](https://youtu.be/o3yGVmpuUgw)
+Demo: [Mirror Demo](https://www.youtube.com/watch?v=6QN7uJpRLGk)
 
 _Still actively working on this project and updating regularly._
 
