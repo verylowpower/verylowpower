@@ -4,7 +4,7 @@ Passionate about 2D and 3D game development with Unity and C#.
 
 Experienced in gameplay, AI, and pixel art using Aseprite.
 
-🔹 Project: [Mirror – 2D Survivor-like Game](https://github.com/verylowpower/Mirror)  (In Development)
+🔹 Project: [Mirror – 2D  BulletHell Game](https://github.com/verylowpower/Mirror)  (In Development)
 
 Implemented spatial partitioning system to manage enemy spawning and AI updates efficiently.
 
@@ -15,6 +15,13 @@ Demo: [Mirror Demo](https://www.youtube.com/watch?v=6QN7uJpRLGk)
 Demo2: [Mirror Demo](https://youtu.be/zz303-6UOCw) (update Menu and Pause)
 
 _Still actively working on this project and updating regularly._
+
+🔹 Project: [Customs -2D Puzzle game]  (In Development)
+
+You are a frontline customs officer in a world on the brink of war. Inspect goods, uncover infiltration plots, and make life-or-death decisions. The fate of the nation rests in your hands.
+
+![Customs](base.png)
+![Customs](base1.png)
 
 🔹 Some of my past pixel art work:
 
