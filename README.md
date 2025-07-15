@@ -24,8 +24,8 @@ Demo gameplay: [Customs](https://ye-loathsome.itch.io/customs)
 
 You are a frontline customs officer in a world on the brink of war. Inspect package, uncover infiltration plots, and make life-or-death decisions. The fate of the nation rests in your hands.
 
-![Customs](base.png)
-![Customs](base1.png)
+![Customs](customs_screen_shoot.png)
+
 
 🔹 Some of my past pixel art work:
 
