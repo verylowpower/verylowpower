@@ -16,7 +16,7 @@ Demo video 2: [Mirror Demo](https://youtu.be/zz303-6UOCw) (update Menu and Pause
 
 _Still actively working on this project and updating regularly._
 
-🔹 Project: Customs - 3D Puzzle game  (In Development)
+🔹 Project: [Customs - 3D Puzzle game](https://github.com/verylowpower/Customs)  (In Development)
 
 You are a frontline customs officer in a world on the brink of war. Inspect package, uncover infiltration plots, and make life-or-death decisions. The fate of the nation rests in your hands.
 
