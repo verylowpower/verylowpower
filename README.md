@@ -10,10 +10,6 @@ Implemented spatial partitioning system to manage enemy spawning and AI updates 
 
 Level up by collecting buffs and transform into a more powerful version.
 
-Demo video: [Mirror Demo](https://www.youtube.com/watch?v=6QN7uJpRLGk)
-
-Demo video 2: [Mirror Demo](https://youtu.be/zz303-6UOCw) (update Menu and Pause)
-
 Demo gameplay: [Mirror Demo GamePlay](https://ye-loathsome.itch.io/mirror)
 
 _Still actively working on this project and updating regularly._
@@ -26,6 +22,9 @@ You are a frontline customs officer in a world on the brink of war. Inspect pack
 
 ![Customs](customs_screen_shoot.png)
 
+🔹 Project: [Solitaire - 2D Mobile Card game](https://github.com/verylowpower/Solitaire_card_game)  (In Development)
+
+A mobile Solitaire game
 
 🔹 Some of my past pixel art work:
 
