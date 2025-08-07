@@ -24,7 +24,9 @@ You are a frontline customs officer in a world on the brink of war. Inspect pack
 
 🔹 Project: [Solitaire - 2D Mobile Card game](https://github.com/verylowpower/Solitaire_card_game)  (In Development)
 
-A mobile Solitaire game
+A mobile Solitaire game, pratice using SOLID
+
+Demo gameplay: [Solitaire](https://ye-loathsome.itch.io/solitaire) 
 
 🔹 Some of my past pixel art work:
 
