@@ -4,6 +4,12 @@ Passionate about 2D and 3D game development with Unity and C#.
 
 Experienced in gameplay, AI, and pixel art using Aseprite.
 
+🔹 Project: [Solitaire - 2D Mobile Card game](https://github.com/verylowpower/Solitaire_card_game) 
+
+A mobile Solitaire game, pratice using SOLID
+
+Demo gameplay on web: [Solitaire](https://ye-loathsome.itch.io/solitaire) 
+
 🔹 Project: [Mirror – 2D  BulletHell Game](https://github.com/verylowpower/Mirror)  (In Development)
 
 Implemented spatial partitioning system to manage enemy spawning and AI updates efficiently.
@@ -21,12 +27,6 @@ Demo gameplay: [Customs](https://ye-loathsome.itch.io/customs)
 You are a frontline customs officer in a world on the brink of war. Inspect package, uncover infiltration plots, and make life-or-death decisions. The fate of the nation rests in your hands.
 
 ![Customs](customs_screen_shoot.png)
-
-🔹 Project: [Solitaire - 2D Mobile Card game](https://github.com/verylowpower/Solitaire_card_game)  (In Development)
-
-A mobile Solitaire game, pratice using SOLID
-
-Demo gameplay: [Solitaire](https://ye-loathsome.itch.io/solitaire) 
 
 🔹 Some of my past pixel art work:
 
